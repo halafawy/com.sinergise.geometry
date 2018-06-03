@@ -10,3 +10,17 @@ mvn test
 
 # To Run
 mvn clean install
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.sinergise.geometry.WKTReaderTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+Running com.sinergise.geometry.WKTWriterMultiTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running com.sinergise.geometry.WKTWriterTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+
+Results :
+
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0
