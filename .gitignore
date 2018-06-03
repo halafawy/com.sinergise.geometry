@@ -16,5 +16,5 @@ local.properties
 ######################
 # Maven
 ######################
-/log/
-/target/
+/geometry/log/
+/geometry/target/
