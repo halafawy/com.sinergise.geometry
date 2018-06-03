@@ -1,0 +1,20 @@
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
+
+######################
+# Maven
+######################
+/log/
+/target/
